@@ -67,7 +67,7 @@ class NetworkMonitor:
         my_tree.heading("#0", text="", anchor=W)
         my_tree.heading("Name", text="Name", anchor=W)
         my_tree.heading("PID", text='PID', anchor=CENTER)
-        my_tree.heading("Status", text="PPID", anchor=W)
+        my_tree.heading("Status", text="Status", anchor=W)
         my_tree.heading("Laddr", text="Local Address", anchor=W)
         my_tree.heading("Raddr", text="Remote Address", anchor=W)
         result = self.network_monitor()
