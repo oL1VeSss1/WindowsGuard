@@ -21,7 +21,6 @@ WindowsGuard is an educational project that is actively being developed. More fe
 |---|---|
 | `tkinter` | Graphical user interface |
 | `psutil` | Process and system information |
-| `platform` | Operating system and platform information |
 | `winreg` | Access to the Windows Registry |
 | `secrets` | Secure random value generation |
 | `string` | Character sets and string utilities |
